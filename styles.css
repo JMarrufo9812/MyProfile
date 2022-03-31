@@ -114,6 +114,61 @@ nav li {
   font-size: 8rem;
 }
 
+.container-three {
+  background: #2a2c4c;
+  height: 55rem;
+  display: flex;
+  justify-content: center;
+}
+
+.subcontainer-text-three {
+  text-align: center;
+  margin-bottom: 1rem;
+  width: 50%;
+}
+
+.container-about img {
+  height: 35rem;
+  width: 28rem;
+}
+
+.container-about {
+  display: flex;
+  align-items: center;
+  width: 80%;
+}
+
+/* .container-contact-info {
+  margin-top: 6rem;
+} */
+.text-normal-sm {
+  color: #efecee;
+  font-size: 1.3rem;
+  text-align: left;
+}
+
+.contact-info-container {
+  display: flex;
+  margin-top: 4rem;
+}
+
+.email-container {
+  margin-right: 4rem;
+}
+
+.text-contact {
+  text-align: left;
+}
+
+.contact-title {
+  color: #d24759;
+  font-weight: bold;
+}
+
+.contact-info {
+  color: #efecee;
+}
+
 /* MEDIA BUTTONS */
 
 .media-button {
